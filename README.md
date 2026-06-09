@@ -1,4 +1,12 @@
-## Hi I'm Vidita👋
+
+<div align="center">
+  
+# Hi, I'm Vidita👋
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vidita111&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vidita111)
+
+
+</div>
 
 # 💫 About Me:
 🔭 I'm currently pursuing Computer Science and Artificial Intelligence at Netaji Subhas University of Technology.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently explaoring Full Stack webDev and DSA<br>⚡ Fun fact: I love to paint
@@ -14,7 +22,13 @@
 ![](https://streak-stats.demolab.com/?user=vidita111&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vidita111&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+###  **Contribution Graph** 📈
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidita111&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
+</div>
+
+
 ---
-[![](https://komarev.com/ghpvc/?username=vidita111&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
